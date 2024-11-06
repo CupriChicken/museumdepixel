@@ -7,6 +7,14 @@ body{
 #header{
     background-color: red;
 }
+.headerdesc{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+}
+.personages{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+}
 #games{
     font-size: x-large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
